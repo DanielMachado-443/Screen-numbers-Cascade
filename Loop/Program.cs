@@ -28,9 +28,7 @@ namespace Loop
                 }
             }
 
-            Console.WriteLine("\n\n   Printing one more random string on the screen for git learning porpose");
-
-            Console.WriteLine();
+            Console.WriteLine("\n   Redone for git");
         }
     }
 }
